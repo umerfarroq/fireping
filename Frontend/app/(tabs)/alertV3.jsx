@@ -1,7 +1,7 @@
 
 
 
-// /v1
+///v1
 
 import { useEffect, useRef, useState } from "react";
 import { Linking, Alert, Platform, ScrollView, View, StyleSheet, Text, Pressable, Animated, Easing, Dimensions, Image } from "react-native";

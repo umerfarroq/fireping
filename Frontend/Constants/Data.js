@@ -34,7 +34,7 @@ export const FIRE_INCIDENT_LOCATION = {
 // export const FireTruckLAT = "34°05'34.1'N";
 // export const FireTruckLONG = "74°48'16.1'E";
 
-// export const API_KEY = "AIzaSyB8SSveyKIDj5ZFFzef-BvGPYvfBxPUCp4";
+
 
 // export const MOCK_ROUTE = [
 //   //   { latitude: 34.0721, longitude: 74.8054 }, // Fire truck
